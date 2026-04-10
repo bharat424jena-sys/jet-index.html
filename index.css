@@ -1,0 +1,12 @@
+
+nav a {margin: 50px;
+text-decoration: none;}
+nav {padding: 3px;}
+header {height: 30px;
+background-color: coral;}
+* {margin: 0px;padding: 0px;}
+main p {font-size: 50px;}
+p a {text-decoration: none;}
+body {background-color: darkgrey;}
+#news {position: absolute;
+left: 400px;}
